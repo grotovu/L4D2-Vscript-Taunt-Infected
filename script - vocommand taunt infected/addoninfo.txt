@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+addonSteamAppID    550
+addontitle "vocalizer command - taunt attracts infected"
+addonVersion       "1.0" 
+addonAuthor        "EagleRaviOrange"
+addonDescription   "Laughing, Taunting, and Fall Screaming can draw in infected in configurable ranges."
+}

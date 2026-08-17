@@ -1,0 +1,1 @@
+IncludeScript("vocommand_tauntattractinfected");
