@@ -10,6 +10,12 @@ This script monitors active Survivor speech scenes and automatically calls `Rush
 
 My primary use case for this is taunting or screaming at chokepoints to clear out rooms and hallways. This results in rooms being clear to search, more zombies being spawned ahead of the map, and hence, more zombies killed on average.
 
+<p align="center">
+<img width="1356" height="760" alt="image" src="https://github.com/user-attachments/assets/4d6f7d88-3d12-45c0-8b1d-456cf34a7d55" />
+  <br>
+  <em>https://www.youtube.com/watch?v=-bra894szx0</em>
+</p>
+
 ---
 
 ## Features
